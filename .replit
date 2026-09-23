@@ -1,0 +1,2 @@
+[nix]
+packages = ["adoptopenjdk-openj9-bin-11"]
